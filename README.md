@@ -1,7 +1,7 @@
 
 # 🐳 Hello Docker
 
-This is my first Docker project!
+This is  Docker project!
 
 It prints: **Hello from my first Docker container!**
 
